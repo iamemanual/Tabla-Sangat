@@ -1,0 +1,25 @@
+# Build and Gradle caches
+.gradle/
+build/
+app/build/
+*.class
+
+# Runtime logs & PIDs
+.server.log
+.server.pid
+.voicestudio.log
+.voicestudio.pid
+*.log
+
+# Audio cache & temporary scratch files
+assets/audio/cache/
+*.tmp
+*.bak
+backups/
+
+# IDE & Editor files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db

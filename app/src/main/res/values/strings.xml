@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Tabla Artist</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <!-- Menu items -->
+    <string name="menu_taal_parichaya">Taal Parichay</string>
+    <string name="menu_taal_variable">Taal Variable</string>
+    <string name="menu_history">Tabla History</string>
+    <string name="menu_theory">Tabla Theory</string>
+    <string name="menu_tuner">Tabla Tuner</string>
+    <string name="menu_tanpura">Tanpura</string>
+    <string name="menu_metronome">Tabla Metronome</string>
+
+    <!-- Placeholder screens -->
+    <string name="screen_taal_parichaya">Taal Parichay</string>
+    <string name="screen_taal_variable">Taal Variable</string>
+    <string name="screen_history">Tabla History</string>
+    <string name="screen_theory">Tabla Theory</string>
+    <string name="screen_tuner">Tabla Tuner</string>
+    <string name="screen_tanpura">Tanpura</string>
+    <string name="screen_metronome">Tabla Metronome</string>
+</resources>

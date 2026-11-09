@@ -1,0 +1,94 @@
+{
+ "note": "Credits for the photographs in this folder: photos.mjs credits prints the footer block for the ones the pages use.",
+ "photos": [
+  {
+   "file": "photo-f71134720-960.webp",
+   "files": [
+    "photo-f71134720-500.webp",
+    "photo-f71134720-960.webp"
+   ],
+   "id": "f71134720",
+   "alt": "Mridangam carving from Trmple in Bihar मृदुंग",
+   "by": "Katyare",
+   "licence": "CC BY-SA 3.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Mridangam_carving_from_Trmple_in_Bihar_%E0%A4%AE%E0%A5%83%E0%A4%A6%E0%A5%81%E0%A4%82%E0%A4%97.jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f146968163.webp",
+   "files": [
+    "photo-f146968163-500.webp",
+    "photo-f146968163-960.webp",
+    "photo-f146968163.webp"
+   ],
+   "id": "f146968163",
+   "alt": "Pakhawaj img",
+   "by": "RahulRajak027",
+   "licence": "CC0",
+   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "page": "https://commons.wikimedia.org/wiki/File:Pakhawaj_img.jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f87568957.webp",
+   "files": [
+    "photo-f87568957-500.webp",
+    "photo-f87568957-960.webp",
+    "photo-f87568957.webp"
+   ],
+   "id": "f87568957",
+   "alt": "The tabla is a percussion instrument - a pair of drums used in traditional, classical, popular and folk music",
+   "by": "Tahsin Shah",
+   "licence": "CC BY-SA 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:The_tabla_is_a_percussion_instrument_-_a_pair_of_drums_used_in_traditional,_classical,_popular_and_folk_music.jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f56885355.webp",
+   "files": [
+    "photo-f56885355-500.webp",
+    "photo-f56885355-960.webp",
+    "photo-f56885355.webp"
+   ],
+   "id": "f56885355",
+   "alt": "Tabla HD",
+   "by": "Rounik Ghosh",
+   "licence": "CC BY-SA 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Tabla_HD.jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f47445976.webp",
+   "files": [
+    "photo-f47445976-500.webp",
+    "photo-f47445976-960.webp",
+    "photo-f47445976.webp"
+   ],
+   "id": "f47445976",
+   "alt": "Zakir Husaain",
+   "by": "Ashveta Budhrani",
+   "licence": "CC BY-SA 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Zakir_Husaain_.jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f61115809.webp",
+   "files": [
+    "photo-f61115809-500.webp",
+    "photo-f61115809-960.webp",
+    "photo-f61115809.webp"
+   ],
+   "id": "f61115809",
+   "alt": "Ravi Shankar with Allarakha & Zakir Hussain & Partho Sarothy",
+   "by": "Ana312727",
+   "licence": "CC BY-SA 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Ravi_Shankar_with_Allarakha_%26_Zakir_Hussain_%26_Partho_Sarothy.jpg",
+   "source": "Wikimedia Commons"
+  }
+ ]
+}
