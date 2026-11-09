@@ -16,7 +16,7 @@ All-in-one Indian classical Tabla companion application featuring real-time inte
   - Zero-latency Web Audio playback with Freesound 8162 authentic acoustic tabla samples (`Dha`, `Dhin`, `Tin`, `Ta`, `Na`, `Ge`, `Kat`, `Te`, `Re`).
   - Three audio playback modes: **AI Voice + Drum**, **AI Voice Only**, **Drum Only**.
 
-- **CarlTune High-Precision Chromatic Tabla Tuner:**
+- **Tabla Tuner High-Precision Chromatic Tabla Tuner:**
   - Dedicated acoustic filtering modes for **Dayan** (Treble 100–480 Hz), **Bayan** (Bass 28–200 Hz), **Deep Voice / Kharaj** (25–360 Hz), and **Wideband**.
   - Dual autocorrelation and spectral peak tracking capable of capturing low-frequency voice and bass dagga strokes with sub-Hz accuracy.
   - Interactive Pitch Pipe reference tone generator for C, C#, D, D#, E, F, F#, G, G#, A, A#, B.
