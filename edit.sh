@@ -1,6 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 # ==============================================================================
-# 🎯 Tabla Artist — Localhost Pinpoint & Live Edit Manager
+# 🎯 Tabla Sangat — Localhost Pinpoint & Live Edit Manager
 # ==============================================================================
 PORT=8080
 SERVER_URL="http://localhost:${PORT}"
@@ -10,7 +10,7 @@ case "$1" in
   list|pending)
     echo ""
     echo "======================================================"
-    echo "  🎯 TABLA ARTIST — PENDING LOCALHOST PINPOINT EDITS"
+    echo "  🎯 TABLA SANGAT — PENDING LOCALHOST PINPOINT EDITS"
     echo "======================================================"
     node -e '
       const http = require("http");
@@ -67,7 +67,7 @@ case "$1" in
     sleep 1
     cd "${PROJECT_DIR}" && nohup node server.js > /dev/null 2>&1 &
     sleep 1
-    echo "✅ Restarted Tabla Artist server on ${SERVER_URL}"
+    echo "✅ Restarted Tabla Sangat server on ${SERVER_URL}"
     ;;
 
   *)

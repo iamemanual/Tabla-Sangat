@@ -150,7 +150,7 @@ const server = http.createServer((req, res) => {
   if (pathname === '/api/status' || pathname === '/api/health') {
     const payload = JSON.stringify({
       status: 'online',
-      app: 'Tabla Artist',
+      app: 'Tabla Sangat',
       port: PORT,
       localUrl: `http://localhost:${PORT}`,
       wifiUrl: `http://${wifiIp}:${PORT}`,
@@ -392,7 +392,7 @@ server.listen(PORT, HOST, () => {
     fs.writeFileSync(PID_FILE, process.pid.toString(), 'utf8');
   } catch (_) {}
   console.log(`\n======================================================`);
-  console.log(`🥁 Tabla Artist — Localhost Server Active (Pinpoint Live)`);
+  console.log(`🥁 Tabla Sangat — Localhost Server Active (Pinpoint Live)`);
   console.log(`📱 Local:   http://localhost:${PORT}`);
   console.log(`📶 Wi-Fi:   http://${wifiIp}:${PORT}`);
   console.log(`🎯 Pinpoint: In-page visual inspector active`);

@@ -1,4 +1,4 @@
-# Tabla Artist — Rhythm & Tuning Companion
+# Tabla Sangat — Rhythm & Tuning Companion
 
 All-in-one Indian classical Tabla companion application featuring real-time interactive playback, acoustic chromatic tuning, continuous Tanpura drone, and pedagogical theory repository.
 

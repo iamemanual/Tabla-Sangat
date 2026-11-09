@@ -1,6 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 # ==============================================================================
-# 🥁 Tabla Artist — Localhost Server CLI (Termux)
+# 🥁 Tabla Sangat — Localhost Server CLI (Termux)
 # ==============================================================================
 
 PORT=8080
@@ -44,7 +44,7 @@ is_running() {
 show_status() {
   echo ""
   echo "======================================================"
-  echo "🥁 Tabla Artist — Localhost Service Status"
+  echo "🥁 Tabla Sangat — Localhost Service Status"
   echo "======================================================"
   if is_running; then
     echo "  Status:        🟢 ONLINE"
@@ -67,12 +67,12 @@ show_status() {
 
 start_server() {
   if is_running; then
-    echo "⚠️  Tabla Artist localhost server is ALREADY RUNNING!"
+    echo "⚠️  Tabla Sangat localhost server is ALREADY RUNNING!"
     show_status
     return 0
   fi
 
-  echo "🚀 Starting Tabla Artist localhost server on port ${PORT}..."
+  echo "🚀 Starting Tabla Sangat localhost server on port ${PORT}..."
   cd "${PROJECT_DIR}"
   setsid node "${SERVER_SCRIPT}" > "${LOG_FILE}" 2>&1 < /dev/null &
   local new_pid=$!
@@ -91,7 +91,7 @@ start_server() {
   done
 
   if is_running; then
-    echo "✅ Tabla Artist server started successfully (PID: $new_pid)!"
+    echo "✅ Tabla Sangat server started successfully (PID: $new_pid)!"
     show_status
   else
     echo "❌ Failed to start server. Logs:"
@@ -100,7 +100,7 @@ start_server() {
 }
 
 stop_server() {
-  echo "🛑 Stopping Tabla Artist server..."
+  echo "🛑 Stopping Tabla Sangat server..."
   bash "${PROJECT_DIR}/start_voicestudio.sh" stop >/dev/null 2>&1 || true
   if [ -f "$PID_FILE" ]; then
     local pid

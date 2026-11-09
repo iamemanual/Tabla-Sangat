@@ -53,7 +53,7 @@ fun TablaDrawerScreen(
         currentRoute.startsWith("tuner") -> "Tabla Tuner"
         currentRoute.startsWith("tanpura") -> "Tanpura"
         currentRoute.startsWith("metronome") -> "Tabla Metronome"
-        else -> "Tabla Artist"
+        else -> "Tabla Sangat"
     }
 
     ModalNavigationDrawer(
@@ -71,7 +71,7 @@ fun TablaDrawerScreen(
                         .padding(vertical = 16.dp)
                 ) {
                     Text(
-                        text = "Tabla Artist",
+                        text = "Tabla Sangat",
                         style = MaterialTheme.typography.headlineSmall,
                         color = TextPrimary,
                         modifier = Modifier.padding(horizontal = 20.dp, vertical = 12.dp)

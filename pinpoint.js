@@ -1,5 +1,5 @@
 // ==========================================================================
-// 🎯 Tabla Artist — Live Pinpoint, Select & Drag Inspector (v3.5 Mobile-Ready)
+// 🎯 Tabla Sangat — Live Pinpoint, Select & Drag Inspector (v3.5 Mobile-Ready)
 // ==========================================================================
 // Provides:
 // - Seamless mobile touch & desktop mouse support with zero ghost clicks
@@ -730,7 +730,7 @@
       <div id="pinpointHeader" class="pinpoint-header" title="Drag to move panel">
         <div class="pinpoint-title-wrap">
           <span style="color:#f59e0b; font-size:14px;">⠿</span>
-          <div class="pinpoint-title">🥁 Tabla Artist Inspector</div>
+          <div class="pinpoint-title">🥁 Tabla Sangat Inspector</div>
         </div>
         <div class="pinpoint-header-actions">
           <button id="pinpointResetPosBtn" class="pinpoint-btn-icon" type="button" title="Reset position">↺</button>
