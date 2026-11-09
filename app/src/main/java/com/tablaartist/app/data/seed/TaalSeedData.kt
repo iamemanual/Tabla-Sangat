@@ -11,8 +11,8 @@ object TaalSeedData {
             matras = 16,
             vibhagSplit = listOf(4, 4, 4, 4),
             markers = listOf("x", "2", "0", "3"),
-            thekaBols = listOf("Dha", "Dhin", "Dhin", "Dha", "Dha", "Dhin", "Dhin", "Dha", "Ta", "Tin", "Tin", "Ta", "Dha", "Dhin", "Dhin", "Dha"),
-            thekaBolsHi = listOf("धा", "धिन", "धिन", "धा", "धा", "धिन", "धिन", "धा", "ता", "तिन", "तिन", "ता", "धा", "धिन", "धिन", "धा")
+            thekaBols = listOf("Dha", "Dhin", "Dhin", "Dha", "Dha", "Dhin", "Dhin", "Dha", "Na", "Tin", "Tin", "Na", "TeTe", "Dhin", "Dhin", "Dha"),
+            thekaBolsHi = listOf("धा", "धिन", "धिन", "धा", "धा", "धिन", "धिन", "धा", "ना", "तिन", "तिन", "ना", "तेटे", "धिन", "धिन", "धा")
         ),
         Taal(
             id = "jhaptal",

@@ -9,8 +9,8 @@ object TaalVariableSeedData {
         // 1. TEENTAAL (16 Matras: 4/4/4/4)
         // ====================================================================
         TaalVariable("teentaal", VariableType.Theka,
-            "Dha Dhin Dhin Dha | Dha Dhin Dhin Dha | Dha Tin Tin Ta | Ta Dhin Dhin Dha",
-            "धा धिन धिन धा | धा धिन धिन धा | धा तिन तिन ता | ता धिन धिन धा", matras = 16),
+            "Dha Dhin Dhin Dha | Dha Dhin Dhin Dha | Na Tin Tin Na | TeTe Dhin Dhin Dha",
+            "धा धिन धिन धा | धा धिन धिन धा | ना तिन तिन ना | तेटे धिन धिन धा", matras = 16),
         TaalVariable("teentaal", VariableType.Kayda,
             "Dha Dha TiTe Dha Dha TiNa | Ta Ta TiTe Dha Dha DhiNa | Dha Dha TiTe Dha Dha TiNa | Ta Ta TiTe Dha Dha DhiNa",
             "धा धा ति टे धा धा ति ना | ता ता ति टे धा धा धी ना | धा धा ति टे धा धा ति ना | ता ता ति टे धा धा धी ना", matras = 16),
