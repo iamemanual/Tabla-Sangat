@@ -144,7 +144,7 @@ class VoiceStudioHandler(http.server.BaseHTTPRequestHandler):
 
     def do_POST(self):
         parsed = urlparse(self.path)
-        if parsed.path != "/v1/audio/speech":
+        if parsed.path not in ("/v1/audio/speech", "/speech"):
             self.send_response(404)
             self._send_cors()
             self.end_headers()

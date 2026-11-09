@@ -12,7 +12,7 @@ val SyahiBorder = Color(0xFF3E2F26)
 // Classical accents
 val CopperAccent = Color(0xFFC85A17)
 val CopperAccentDark = Color(0xFFE57A38)
-val SamGold = Color(0xFFD700)
+val SamGold = Color(0xFFFFD700)
 val KhaliSky = Color(0xFF82B1FF)
 val TaliOrange = Color(0xFFE57A38)
 
